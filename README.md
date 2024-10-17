@@ -18,8 +18,8 @@ lowers the threshold for them and their caregivers to access and monitor brain s
 epilepsy detection.
 
 ## Code Structure
-- Code: the code for hybrid model design
-- Data: the download file will store at here. please download CHB-MIT dataset and place at here.
+- Code: the code for hybrid model design, including Model file and arduino file.
+- Data: the download file and result in xlsx will store at here. please download CHB-MIT dataset and place at here.
 - Thesis: the proposal and thesis
 
 
